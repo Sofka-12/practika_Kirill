@@ -18,7 +18,7 @@
 
 Приложение работает **полностью автономно**: не требует подключения к интернету, не использует внешние серверы и хранит все данные локально на устройстве пользователя в базе данных SQLite.
 
-![Главный экран приложения Kirill со списком записных книжек](images/main-<img width="580" alt="main-screen" src="https://github.com/user-attachments/assets/bcdc606e-814c-4e7a-957f-f562d753e01c" />
+![Главный экран приложения Kirill со списком записных книжек](images/main-<img width="380" alt="main-screen" src="https://github.com/user-attachments/assets/bcdc606e-814c-4e7a-957f-f562d753e01c" />
 screen.jpg)
 
 *Главный экран приложения с записными книжками*
